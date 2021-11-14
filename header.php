@@ -12,7 +12,7 @@
     <!-- Font awesome icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     
-    <link rel="stylesheet" href="./style.css?v=4">
+    <link rel="stylesheet" href="./style.css?v=5">
 
     <?php
         // require (connection) functions
@@ -32,7 +32,7 @@
 
         <!-- Navbar -->
         <nav class="navbar navbar-expand-lg navbar-dark bg-info">
-            <a class="navbar-brand px-2" href="#">Logo</a>
+            <a class="navbar-brand px-2" href="#"><img class="logo-img" src="./assets/itc logo.jpg" alt=""></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
